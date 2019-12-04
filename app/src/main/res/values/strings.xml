@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tourist Spots</string>
+    <string name="api_key">AIzaSyAM98KrxcqJejDNrNt_7WLmE5I55NFuhXk</string>
+
+    <string name="btn_route">Route</string>
+    <string name="btn_show_map">Show on Map</string>
+    <string name="btn_request">Search</string>
+    <string name="msg_request_location">Location Access Permission is required for usage of this application.</string>
+    <string name="error_turn_on_wifi">Turn on internet or WiFi</string>
+    <string name="error_no_result_found">No result found</string>
+    <string name="error_select">No Spot Selected</string>
+</resources>

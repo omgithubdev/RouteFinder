@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="space_x_1">4dp</dimen>
+    <dimen name="space_x_2">8dp</dimen>
+    <dimen name="space_x_3">12dp</dimen>
+    <dimen name="space_x_4">16dp</dimen>
+    <dimen name="space_x_5">20dp</dimen>
+
+    <dimen name="space_x_40">160dp</dimen>
+
+    <dimen name="text_18">18sp</dimen>
+    <dimen name="text_16">16sp</dimen>
+    <dimen name="text_14">14sp</dimen>
+</resources>
